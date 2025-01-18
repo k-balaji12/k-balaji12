@@ -23,7 +23,7 @@ currently pursuring B.Tech 3rd Year Information Technology
 </head>
 <body>
     <h1>My GIF Image</h1>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoder-gifs&psig=AOvVaw0J209gMI6LvO71EUv9ShmC&ust=1737262661878000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDD8JK-_ooDFQAAAAAdAAAAABAE">
+    <img src="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif">
 </body>
 </html>
 
