@@ -22,7 +22,7 @@ currently pursuring B.Tech 3rd Year Information Technology
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>My GIF Image</h1>
+   
     <img src="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif">
 </body>
 </html>
